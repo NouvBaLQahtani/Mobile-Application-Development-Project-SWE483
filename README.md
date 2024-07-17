@@ -1,5 +1,5 @@
 # Academate
-This project is part of the Mobile Application Development Project course under my bachelor's degree in software engineering
+This project is part of the Mobile Application Development course under my bachelor's degree in software engineering
 
 ## Introduction
 
